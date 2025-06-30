@@ -3,7 +3,6 @@
   "version": "0.1.5",
   "description": "轻量级模板，使用 JavaScript，仅包含基础的 Layout。",
   "dependencies": {
-    "@alifd/fusion-ui": "2.0.2",
     "@alifd/layout": "2.4.1",
     "@alifd/next": "1.25.23",
     "@alifd/theme-design-pro": "^0.x",
@@ -14,9 +13,11 @@
     "@loadable/component": "^5.15.2",
     "intl-messageformat": "^9.3.6",
     "moment": "^2.24.0",
+    "my-ui-materialddd": "0.1.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-router": "^5.2.1"
+    "react-router": "^5.2.1",
+    "yang-mat-ddsd": "0.1.4"
   },
   "devDependencies": {
     "@ice/spec": "^1.0.0",
@@ -25,7 +26,6 @@
     "eslint": "^6.0.1",
     "ice.js": "^1.0.0",
     "patch-package": "^8.0.0",
-    "postinstall-postinstall": "^2.1.0",
     "stylelint": "^13.2.0"
   },
   "scripts": {
